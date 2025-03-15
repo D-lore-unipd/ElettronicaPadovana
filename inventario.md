@@ -15,4 +15,10 @@ processore 5
 
 ## periferiche
 
+tastiera1
+
+tastiera2
+
+
+
 Elettronica Padovana
